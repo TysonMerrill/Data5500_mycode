@@ -1,0 +1,9 @@
+Deleting a node from a tree is hard because we need the tree to be organized.
+
+There are a few cases to ensure tree organization listed below:
+1. The node has no children - you can remove it!
+2.The node has one child - You need to connect the parent of the node to its child (like up one on the tree)
+3. The node has two children - you need to find the next node in the inorder order and replace the node with it. Then delete it (the old one).
+
+There are some issues that could arrise. You could unbalance a tree and cause inefficiensies. In that case you would have to do the best you can.
+Finding an inorder successor could be hard as well but you can use a search function to find it.

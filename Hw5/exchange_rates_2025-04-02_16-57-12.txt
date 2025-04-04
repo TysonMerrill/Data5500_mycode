@@ -1,0 +1,4 @@
+1 bitcoin = 45.738798 eth
+1 bitcoin = 1.0 btc
+1 ethereum = 1.0 eth
+1 ethereum = 0.02186803 btc

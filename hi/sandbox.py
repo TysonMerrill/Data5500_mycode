@@ -1,11 +1,12 @@
-class Snowmobile:
-    def __init__(self, make, model, track_size, paddle_length):
-        self.make = make
-        self.model = model
-        self.track_size = track_size
-        self.paddle_length = paddle_length
+def cube_number(n):
+    result = 0
+    for i in range(n):
+        for j in range(n * n):  # This loop simulates the cubic complexity
+            result += 1
+    return result
 
-tyson = Snowmobile("Ski-Doo", "Lynx", 164, 3)
-ryan = Snowmobile("Polaris", "Khaos", 155, 2.75)
+number = 2  # Example number to cube
+result = cube_number(number)
+print(f"Cube of {number} is: {result}")
 
-print(tyson, ryan)
+

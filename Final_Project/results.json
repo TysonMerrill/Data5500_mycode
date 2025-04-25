@@ -1,0 +1,142 @@
+{
+  "AA": {
+    "sma_crossover": 0,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "AAL": {
+    "sma_crossover": -0.21,
+    "mean_reversion": 0.06,
+    "bollinger_bands": 0.06
+  },
+  "AAPL": {
+    "sma_crossover": 0.01,
+    "mean_reversion": 0.19,
+    "bollinger_bands": 0.36
+  },
+  "AIG": {
+    "sma_crossover": -0.23,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "AMAT": {
+    "sma_crossover": -0.53,
+    "mean_reversion": 0.89,
+    "bollinger_bands": 0
+  },
+  "AMC": {
+    "sma_crossover": -0.02,
+    "mean_reversion": 0.03,
+    "bollinger_bands": 0.02
+  },
+  "AMD": {
+    "sma_crossover": -0.59,
+    "mean_reversion": -0.43,
+    "bollinger_bands": 0.09
+  },
+  "AMGN": {
+    "sma_crossover": -1.97,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "AMZN": {
+    "sma_crossover": -4.7,
+    "mean_reversion": -1.03,
+    "bollinger_bands": 0
+  },
+  "APA": {
+    "sma_crossover": 0.37,
+    "mean_reversion": -0.25,
+    "bollinger_bands": -0.25
+  },
+  "BA": {
+    "sma_crossover": -0.6,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "BABA": {
+    "sma_crossover": 0.47,
+    "mean_reversion": -0.11,
+    "bollinger_bands": 0.12
+  },
+  "BAC": {
+    "sma_crossover": -0.23,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "BBY": {
+    "sma_crossover": 0,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "BIDU": {
+    "sma_crossover": 0.27,
+    "mean_reversion": -0.01,
+    "bollinger_bands": -0.29
+  },
+  "BP": {
+    "sma_crossover": 0.09,
+    "mean_reversion": 0.08,
+    "bollinger_bands": 0.17
+  },
+  "C": {
+    "sma_crossover": -0.22,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "CAT": {
+    "sma_crossover": -0.81,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "CMG": {
+    "sma_crossover": 0,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "COP": {
+    "sma_crossover": 0.0,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "COST": {
+    "sma_crossover": -2.71,
+    "mean_reversion": 6.93,
+    "bollinger_bands": 6.93
+  },
+  "CSCO": {
+    "sma_crossover": -0.02,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "CVX": {
+    "sma_crossover": -0.89,
+    "mean_reversion": 0.62,
+    "bollinger_bands": 0
+  },
+  "DAL": {
+    "sma_crossover": 0.37,
+    "mean_reversion": 0.41,
+    "bollinger_bands": 0
+  },
+  "DIA": {
+    "sma_crossover": -2.39,
+    "mean_reversion": 3.3,
+    "bollinger_bands": 3.18
+  },
+  "DIS": {
+    "sma_crossover": -0.44,
+    "mean_reversion": 0.15,
+    "bollinger_bands": -0.1
+  },
+  "EBAY": {
+    "sma_crossover": -0.06,
+    "mean_reversion": 0,
+    "bollinger_bands": 0
+  },
+  "summary": {
+    "most_profitable_stock": "COST",
+    "most_profitable_strategy": "mean_reversion",
+    "max_profit": 6.93
+  }
+}
